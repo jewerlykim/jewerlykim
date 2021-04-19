@@ -6,7 +6,7 @@
 - 👍 developer who wants to spread the good influence widely
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jewerlykim)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jewerlykim)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ## 💻 Tech Stack & Others
