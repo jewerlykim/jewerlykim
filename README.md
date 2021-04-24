@@ -4,7 +4,7 @@
 - 🙋‍♂️ Junior developer
 - 🔥 developer who wants to grow
 - 👍 developer who wants to spread the good influence widely
-
+- 🖋 technical writing or something my own in velog https://velog.io/@jewelrykim
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jewerlykim)](https://github.com/anuraghazra/github-readme-stats) -->
 
