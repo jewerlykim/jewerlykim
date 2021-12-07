@@ -2,7 +2,6 @@
 
 ## 👋🏻 Hi there  
 - 🙋‍♂️ Junior developer
-- 🔥 developer who wants to grow
 - 👍 developer who wants to spread the good influence widely
 - 🖋 technical writing or something my own in velog https://velog.io/@jewelrykim
 
