@@ -28,7 +28,7 @@
     </a>
 </div>
 <div align="center">
-    <h4>Business e-mail</h4>
+    <h4>Bussiness e-mail</h4>
     <a href="mailto:boseok.kim@dsclabel.co.kr">
         <img 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/leejieuns2/"
