@@ -27,11 +27,4 @@
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
 </div>
-<div align="center">
-    <h4>Bussiness e-mail</h4>
-    <a href="mailto:boseok.kim@dsclabel.co.kr">
-        <img 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/leejieuns2/"
-            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-    </a>
-</div>
+
