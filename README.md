@@ -9,12 +9,8 @@
 ## 💻 Tech Stack & Others
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Next.js
--000000?style=flat-square&logo=Next.js
-&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NestJS
--E0234E?style=flat-square&logo=NestJS
-&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
